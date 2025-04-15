@@ -1,1 +1,3 @@
-"streamlit\ntransformers\ntorch\n" 
+streamlit
+transformers
+torch
